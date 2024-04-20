@@ -7,7 +7,8 @@ For IMT574 Machine Learning course, I uploaded each separate notebook I worked o
 Table of Contents:
 1. IMT573 Foundations of Data Science final assignment: Programming-for-DS/IMT573_final_assignment.ipynb
 2. IMT574 Machine Learning:
-   a. Linear Regression:
+   
+   a. Linear Regression: Programming-for-DS/AnaSantiago_IMT574_linear_regression.ipynb
    
    b. Logistic Regression & kNN: Programming-for-DS/AnaSantiago_IMT574_logistic-regression-knn.ipynb
    
