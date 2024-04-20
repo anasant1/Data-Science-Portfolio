@@ -11,5 +11,7 @@ Table of Contents:
    a. Linear Regression: Programming-for-DS/AnaSantiago_IMT574_linear_regression.ipynb
    
    b. Logistic Regression & kNN: Programming-for-DS/AnaSantiago_IMT574_logistic-regression-knn.ipynb
+
+   c. decision trees & random forest: Programming-for-DS/AnaSantiago_IMT574_decision-trees-random-forest.ipynb
    
    d. Clustering:
