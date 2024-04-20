@@ -8,6 +8,7 @@ Table of Contents:
 1. IMT573 Foundations of Data Science final assignment: Programming-for-DS/IMT573_final_assignment.ipynb
 2. IMT574 Machine Learning:
    a. Linear Regression:
-   b. Logistic Regression:
-   c. kNN:
+   
+   b. Logistic Regression & kNN: Programming-for-DS/AnaSantiago_IMT574_logistic-regression-knn.ipynb
+   
    d. Clustering:
