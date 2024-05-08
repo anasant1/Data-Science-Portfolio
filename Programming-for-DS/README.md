@@ -14,4 +14,8 @@ Table of Contents:
 
    c. decision trees & random forest: Programming-for-DS/AnaSantiago_IMT574_decision-trees-random-forest.ipynb
    
-   d. Clustering:
+   d. Clustering: Programming-for-DS/AnaSantiago_IMT574-Clustering.ipynb
+
+   e. Naive Bayes algorithm via multinomial model for spam comment detection, utilizing NLP tokenization techniques: 
+
+   f. Expectation-Maximization algorithm via GaussianMixture: 
