@@ -16,6 +16,6 @@ Table of Contents:
    
    d. Clustering: Programming-for-DS/AnaSantiago_IMT574-Clustering.ipynb
 
-   e. Naive Bayes algorithm via multinomial model for spam comment detection, utilizing NLP tokenization techniques: 
+   e. Naive Bayes algorithm via multinomial model for spam comment detection, utilizing NLP tokenization techniques: Programming-for-DS/AnaSantiago_IMT574-naive-bayes.ipynb
 
    f. Expectation-Maximization algorithm via GaussianMixture: 
