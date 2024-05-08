@@ -18,4 +18,4 @@ Table of Contents:
 
    e. Naive Bayes algorithm via multinomial model for spam comment detection, utilizing NLP tokenization techniques: Programming-for-DS/AnaSantiago_IMT574-naive-bayes.ipynb
 
-   f. Expectation-Maximization algorithm via GaussianMixture: 
+   f. Expectation-Maximization algorithm via GaussianMixture: Programming-for-DS/AnaSantiago_IMT574_expectation-maximization.ipynb
