@@ -1,0 +1,1 @@
+This folder contains my conceptual model, where I brainstormed business nouns/objects that would be pertinent to the mock bakery business. Additionally, I have attached my 1NF-3NF ERD's with commentary to showcase my improvements and reasoning. 
