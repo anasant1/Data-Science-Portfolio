@@ -6,6 +6,11 @@ In this folder you will find a mock relational database I instantiated during a 
 4. Build
    
 In this project, I navigated through the 3 levels of database design and 3-level architecture stages:
-1. Conceptual
-2. Logical
-3. Physical
+1. Conceptual model
+2. Logical model
+3. Physical model
+
+I brainstormed the business nouns with a franchised bakery business context, and transformed those to an entity-relationship diagram (ERD) that I refined from 1NF to 3NF before instantiating my database, populating its tables, and adding mock data to its lookup tables. 
+
+Currently, I'm working on adding triggers, stored procedures for business transactions, computed columns, and a couple of complex query examples. 
+Once completed, this project will demonstrate my ability to utilize data manipulation language (DML), data definition language (DDL), and data control language (DLC)
