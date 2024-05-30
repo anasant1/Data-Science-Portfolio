@@ -22,4 +22,4 @@ Table of Contents:
 
    g. Support Vector Machine (SVM): Programming-for-DS/AnaSantiago_IMT574_SVM.ipynb
 
-   h. Neural Networks (using PyTorch): 
+   h. Neural Networks (using PyTorch): Programming-for-DS/AnaSantiago_IMT574_artificial-neural-networks.ipynb
