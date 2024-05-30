@@ -12,5 +12,7 @@ In this project, I navigated through the 3 levels of database design and 3-level
 
 I brainstormed the business nouns with a franchised bakery business context, and transformed those to an entity-relationship diagram (ERD) that I refined from 1NF to 3NF before instantiating my database, populating its tables, and adding mock data to its lookup tables. 
 
-Currently, I'm working on adding triggers, stored procedures for business transactions, computed columns, and a couple of complex query examples. 
-Once completed, this project will demonstrate my ability to utilize data manipulation language (DML), data definition language (DDL), and data control language (DLC)
+Finally, I coded triggers, stored procedures for business transactions, computed columns, and a couple of complex query examples. 
+This project demonstrates my ability to utilize data manipulation language (DML), data definition language (DDL), and data control language (DLC).
+
+For a brief overview of the process, please peruse the .pdf file of my slide deck here: 
