@@ -20,6 +20,6 @@ Table of Contents:
 
    f. Expectation-Maximization algorithm via GaussianMixture: Programming-for-DS/AnaSantiago_IMT574_expectation-maximization.ipynb
 
-   g. Support Vector Machine (SVM): 
+   g. Support Vector Machine (SVM): Programming-for-DS/AnaSantiago_IMT574_SVM.ipynb
 
    h. Neural Networks (using PyTorch): 
