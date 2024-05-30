@@ -4,8 +4,9 @@ clean data, understand it, visualize it, fit a model, and evaluate a model's per
 For IMT573, I decided to upload my final assignment Jupyter Notebook as it demonstrates my Python skills for data preprocessing, statistical analysis through Exploratory Data Analysis, and appropriate regression model selection and interpretation.
 For IMT574 Machine Learning course, I uploaded each separate notebook I worked on during the term that highlight specific machine learning algorithm applications and interpretations.
 
-Table of Contents:
+# Table of Contents:
 1. IMT573 Foundations of Data Science final assignment: Programming-for-DS/IMT573_final_assignment.ipynb
+   
 2. IMT574 Machine Learning:
    
    a. Linear Regression: Programming-for-DS/AnaSantiago_IMT574_linear_regression.ipynb
@@ -23,3 +24,5 @@ Table of Contents:
    g. Support Vector Machine (SVM): Programming-for-DS/AnaSantiago_IMT574_SVM.ipynb
 
    h. Neural Networks (using PyTorch): Programming-for-DS/AnaSantiago_IMT574_artificial-neural-networks.ipynb
+   
+3. IMT 575: Scaling and Econometrics 
