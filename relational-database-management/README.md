@@ -15,4 +15,4 @@ I brainstormed the business nouns with a franchised bakery business context, and
 Finally, I coded triggers, stored procedures for business transactions, computed columns, and a couple of complex query examples. 
 This project demonstrates my ability to utilize data manipulation language (DML), data definition language (DDL), and data control language (DLC).
 
-For a brief overview of the process, please peruse the .pdf file of my slide deck here: 
+For a brief overview of the process, please peruse the .pdf file of my slide deck here: relational-database-management/AnaSantiago_RDBMS-presentation.pdf
